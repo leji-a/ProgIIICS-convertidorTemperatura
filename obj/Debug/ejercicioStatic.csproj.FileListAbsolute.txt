@@ -1,0 +1,11 @@
+C:\Users\UTN\Desktop\ejercicioStatic\bin\Debug\ejercicioStatic.exe.config
+C:\Users\UTN\Desktop\ejercicioStatic\bin\Debug\ejercicioStatic.exe
+C:\Users\UTN\Desktop\ejercicioStatic\bin\Debug\ejercicioStatic.pdb
+C:\Users\UTN\Desktop\ejercicioStatic\obj\Debug\ejercicioStatic.csproj.AssemblyReference.cache
+C:\Users\UTN\Desktop\ejercicioStatic\obj\Debug\ejercicioStatic.csproj.SuggestedBindingRedirects.cache
+C:\Users\UTN\Desktop\ejercicioStatic\obj\Debug\ejercicioStatic.Form1.resources
+C:\Users\UTN\Desktop\ejercicioStatic\obj\Debug\ejercicioStatic.Properties.Resources.resources
+C:\Users\UTN\Desktop\ejercicioStatic\obj\Debug\ejercicioStatic.csproj.GenerateResource.cache
+C:\Users\UTN\Desktop\ejercicioStatic\obj\Debug\ejercicioStatic.csproj.CoreCompileInputs.cache
+C:\Users\UTN\Desktop\ejercicioStatic\obj\Debug\ejercicioStatic.exe
+C:\Users\UTN\Desktop\ejercicioStatic\obj\Debug\ejercicioStatic.pdb
